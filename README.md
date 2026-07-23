@@ -40,6 +40,7 @@ Displays key business metrics including:
 3. Total Regions
 4. Total States
 5. Total Cities
+   
 These KPIs provide an instant overview of overall business performance.
 
 - Top 10 Cities by Revenue - 
