@@ -1,5 +1,5 @@
-<img width="493" height="398" alt="Sales Dashboard" src="https://github.com/user-attachments/assets/6690d3d7-9c3f-40f3-a3f8-22b0732b7a88" />
 # Sales-analysis-dashboard---Tableau
+
 - Project Overview
 
 The Sales Performance Dashboard is an interactive Tableau dashboard designed to analyze sales performance across different regions, states, and cities in India. It provides business users with a centralized view of key sales metrics, helping identify high-performing locations and support data-driven decision-making.
