@@ -1,3 +1,4 @@
+<img width="493" height="398" alt="Sales Dashboard" src="https://github.com/user-attachments/assets/6690d3d7-9c3f-40f3-a3f8-22b0732b7a88" />
 # Sales-analysis-dashboard---Tableau
 - Project Overview
 
@@ -70,6 +71,6 @@ The dashboard helps stakeholders:
 
 
 - Dashboard Preview
-  
-  <img width="493" height="397" alt="Sales Dashboard" src="https://github.com/user-attachments/assets/309bf663-9c9a-4224-9f34-62f4ed6ace4c" />
+
+<img width="493" height="398" alt="Sales Dashboard" src="https://github.com/user-attachments/assets/516a53cc-5b10-4fde-bc99-22f230c2acb6" />
 
