@@ -22,7 +22,7 @@ The goal of this dashboard is to:
 4. Map Visualization – Geographic analysis
 
 
--Data Source
+- Data Source - 
 Sample Sales Dataset containing:
 1. Order ID
 2. Revenue
@@ -33,7 +33,7 @@ Sample Sales Dataset containing:
 
 - Dashboard Features
 
-- KPI Section
+- KPI Section - 
 Displays key business metrics including:
 1. Total Revenue
 2. Total Orders
@@ -42,25 +42,25 @@ Displays key business metrics including:
 5. Total Cities
 These KPIs provide an instant overview of overall business performance.
 
-- Top 10 Cities by Revenue
+- Top 10 Cities by Revenue - 
 A horizontal bar chart ranking the top revenue-generating cities.
 Business Value
 1. Identifies high-performing markets.
 2. Helps prioritize sales and marketing efforts.
 
-- Top 10 States by Revenue
+- Top 10 States by Revenue - 
 Displays the highest revenue-generating states.
 Business Value
 1. Enables state-level performance comparison.
 2. Supports regional sales strategy.
 
-- Orders on Map
+- Orders on Map - 
 Interactive map visualizing sales across different states.
 Business Value
 1. Highlights geographical sales distribution.
 2. Makes regional trends easier to identify.
 
-- Business Insights
+- Business Insights - 
 The dashboard helps stakeholders:
 1. Identify top-performing cities and states.
 2. Analyze regional sales distribution.
